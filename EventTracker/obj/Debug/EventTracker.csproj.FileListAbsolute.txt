@@ -1,0 +1,5 @@
+D:\Personal\Study_Projectesetc\EventViewer\EventTracker\EventTracker\bin\Debug\EventTracker.exe.config
+D:\Personal\Study_Projectesetc\EventViewer\EventTracker\EventTracker\bin\Debug\EventTracker.exe
+D:\Personal\Study_Projectesetc\EventViewer\EventTracker\EventTracker\bin\Debug\EventTracker.pdb
+D:\Personal\Study_Projectesetc\EventViewer\EventTracker\EventTracker\obj\Debug\EventTracker.exe
+D:\Personal\Study_Projectesetc\EventViewer\EventTracker\EventTracker\obj\Debug\EventTracker.pdb
